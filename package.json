@@ -22,7 +22,7 @@
   "dependencies": {
     "extend": "^2.0.1",
     "request": "^2.67.0",
-    "soap": "^0.19.2"
+    "soap": "^0.29.0"
   },
   "devDependencies": {
     "grunt": "latest",
@@ -31,7 +31,7 @@
     "mocha": "latest",
     "should": "^4.4.1"
   },
-  "engines" :  { 
-      "node" : ">=4.0.0" 
-    } 
+  "engines": {
+    "node": ">=4.0.0"
+  }
 }
